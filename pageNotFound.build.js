@@ -1,0 +1,1 @@
+(()=>{"use strict";const e=document.getElementById("countdown");let t=6;const n=()=>{t--,e.innerText=`Redirecting in ${t}s ...`,0==t&&(window.location.href="/")};n(),setInterval(n,1e3)})();
