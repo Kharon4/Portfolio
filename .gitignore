@@ -2,5 +2,6 @@ node_modules
 *
 !CNAME
 !index.html
+!404.html
 !*.build.*
 !README.md
